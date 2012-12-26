@@ -44,6 +44,10 @@ dependencies[] = module_filter
 dependencies[] = date_popup_authored
 
 ; Panopoly Recommended - Other
-dependencies[] = devel
 dependencies[] = uuid
+
+; For the beauty
+dependencies[] = fontyourface
+dependencies[] = google_fonts_api
+dependencies[] = typogrify
 

@@ -1,5 +1,7 @@
 libraries/
-themes/
+themes/responsive_bartik
+themes/tao
+themes/rubik
 modules/panopoly/
 modules/contrib/
 *~
