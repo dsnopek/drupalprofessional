@@ -4,7 +4,7 @@ description = A sub-theme of Bartik for DrupalProfessional.com
 package = DrupalProfessional.com
 version = VERSION
 core = 7.x
-base theme = bartik
+base theme = responsive_bartik
 
 stylesheets[all][] = css/local.css
 

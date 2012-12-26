@@ -38,6 +38,9 @@ projects[diff][subdir] = contrib
 projects[webform][version] = 4.0-alpha6
 projects[webform][subdir] = contrib
 
+projects[context][version] = 3.0-beta4
+projects[context][subdir] = contrib
+
 ; Coder upgrade stuff!
 
 projects[grammar_parser][type] = library

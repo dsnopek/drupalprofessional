@@ -11,6 +11,14 @@ function drupalprofessional_install() {
   user_role_grant_permissions(DRUPAL_ANONYMOUS_RID, array('access content'));
   user_role_grant_permissions(DRUPAL_AUTHENTICATED_RID, array('access content'));
 
+  // Enable the default theme.
+  db_update('system')
+    ->fields(array('status' => 1))
+    ->condition('type', 'theme')
+    ->condition('name', 'protik')
+    ->execute();
+  variable_set('theme_default', 'protik');
+
   // Enable the admin theme.
   db_update('system')
     ->fields(array('status' => 1))
