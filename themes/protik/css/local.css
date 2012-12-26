@@ -5,7 +5,10 @@ body {
 }
 
 #content h2 {
-  margin-bottom: .2em;
   font-weight: 700;
+}
+
+.mailchimp-newsletter-wrapper .description {
+  margin-top: 1em;
 }
 
