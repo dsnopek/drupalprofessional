@@ -34,8 +34,8 @@ settings[shortcut_module_link] = 0
 
 fonts[google_fonts_api][] = "Droid Sans&subset=latin#700"
 fonts[google_fonts_api][] = "Droid Sans&subset=latin#regular"
-fonts[google_fonts_api][] = "Droid Serif&subset=latin#700"
-fonts[google_fonts_api][] = "Droid Serif&subset=latin#700italic"
-fonts[google_fonts_api][] = "Droid Serif&subset=latin#italic"
-fonts[google_fonts_api][] = "Droid Serif&subset=latin#regular"
+;fonts[google_fonts_api][] = "Droid Serif&subset=latin#700"
+;fonts[google_fonts_api][] = "Droid Serif&subset=latin#700italic"
+;fonts[google_fonts_api][] = "Droid Serif&subset=latin#italic"
+;fonts[google_fonts_api][] = "Droid Serif&subset=latin#regular"
 
